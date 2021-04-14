@@ -1,2 +1,1 @@
-# Profile
-https://github.com/Lavish-Patel/portfolio
+https://lavish-patel.github.io/portfolio/
